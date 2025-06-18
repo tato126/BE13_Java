@@ -14,10 +14,6 @@ public class Practice06 {
 
             for (int j = 5; j > i; j--) {
                 System.out.print(" ");
-
-                if (i + j >= 6) {
-                    System.out.print("*");
-                }
             }
 
             for (int j = 0; j < i; j++) {
