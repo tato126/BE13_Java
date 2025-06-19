@@ -1,6 +1,6 @@
 package test.star.practice;
 
-public class PrintStar09 {
+public class Practice09 {
     public static void main(String[] args) {
 
         for (int i = 1; i <= 5; i++) {
