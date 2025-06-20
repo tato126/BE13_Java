@@ -36,7 +36,6 @@ public class ArrayEx01 {
         }
 
         System.out.println();
-        System.out.println("최종 답은 : 345679");
 
     }
 }
